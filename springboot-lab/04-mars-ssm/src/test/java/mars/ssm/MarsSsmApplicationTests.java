@@ -1,10 +1,10 @@
-package base.java;
+package mars.ssm;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class BaseJavaApplicationTests {
+class MarsSsmApplicationTests {
 
     @Test
     void contextLoads() {

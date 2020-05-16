@@ -8,11 +8,11 @@
         <version>2.3.0.RELEASE</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>03-base-java</groupId>
-    <artifactId>base-java</artifactId>
+    <groupId>03-mars-java-base</groupId>
+    <artifactId>mars-java-base</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>base-java</name>
-    <description>03-base-java</description>
+    <name>mars-java-base</name>
+    <description>03-java-base</description>
 
     <properties>
         <java.version>1.8</java.version>
